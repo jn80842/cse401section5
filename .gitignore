@@ -1,0 +1,8 @@
+*.jar
+
+# Auto-generated
+AmbiguityLexer.js
+AmbiguityParser.js
+AmbiguityParserListener.js
+AmbiguityParserVisitor.js
+*.tokens
